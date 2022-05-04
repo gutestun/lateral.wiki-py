@@ -17,4 +17,14 @@ The second major interest I took in it was when I at age 22 or so bought a 700 p
 - [Huberman Lab Podcast](../neuroscience/huberman-lab-podcast.md)   
 - Are drugs with [post-synaptic action safer than pre-synaptic action](../neuroscience/post-synaptic%20action%20safer%20than%20pre-synaptic%20action.md)?   
 - [nootropics](/not_created.md)   
-- [nutraceutical](../neuroscience/nutraceutical.md)
+- [nutraceutical](../neuroscience/nutraceutical.md)   
+   
+## People in Neuroscience   
+   
+- [Andrew Huberman](../Andrew%20Huberman.md)   
+- [Lisa Feldman Barrett](/not_created.md)   
+   
+## Quotes About neuroscience   
+   
+- [t.everything in the brain is an abstraction](../t.everything%20in%20the%20brain%20is%20an%20abstraction.md)   
+- [The brain does not classify - it does concept construction](../The%20brain%20does%20not%20classify%20-%20it%20does%20concept%20construction.md)

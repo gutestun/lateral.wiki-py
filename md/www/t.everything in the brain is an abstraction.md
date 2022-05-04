@@ -5,6 +5,7 @@ tags:
 - consciousness
 - neuroscience
 - quote
+- thought
 title: everything in the brain is an abstraction
 type: thought
 updated: 2021-01-17 20:37
