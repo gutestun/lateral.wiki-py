@@ -10,9 +10,9 @@ updated: 2021-03-14
    
 Something inbetween a blog, personal notes, twitter and… Actually, you know what? It's exactly what the internet – personal websites – used to be in the 90s.   
    
-For me it is also a way of revisiting memories. As they bubble up, I write them down, which makes space for new (err… older) bubbles to float to the surface, where I again catch those, and encase them in the beautiful, glowing, warm amber of… cold digital clean text…   
+For me it is also a way of revisiting memories. As they bubble up, I write them down, which makes space for new (err… older) bubbles to float to the surface, where I again catch those, and encase them in the beautiful, glowing, warm amber of… cold clean digital text…   
    
-It's a nice way of rummagint through ones damp, dark, sharply edged and metallic memory conduits.   
+It's a cozy and comforting way to rummage through ones damp, dark, sharply edged and metallic memory conduits. Usually there's rust and leaking fluids as well. Not the clean Jeffrey Tubes of [tng](/not_created.md).   
    
 [The essence of a digital garden is a personal website that foregoes navigational elements](./The%20essence%20of%20a%20digital%20garden%20is%20a%20personal%20website%20that%20foregoes%20navigational%20elements.md)   
    
@@ -20,7 +20,7 @@ It's a nice way of rummagint through ones damp, dark, sharply edged and metallic
    
 ---   
    
-There's heaps of references to the woman that draws, the guy with the manifesto and the guy with not a blog, and the guy that **everybody** links to with the horizontal web interface gimmick(\*)   
+There's heaps of references to the woman that draws, the guy with the manifesto, the guy with not a blog, and the guy that **everybody** links to with the horizontal web interface gimmick(\*)   
 Here's some things I found below the surface:   
    
 - [Why Bother?](https://salman.io/blog/why-bother/) by Salman – On why to bother, which I have wondered regarding my notes in [sw.obsidian](/not_created.md). Is it worth it?   
