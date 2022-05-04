@@ -15,4 +15,8 @@ This is all pretty dire. Reading it over I wonder why I am not more severely dep
    
    
 - Addiction: [most addicts are trauma survivors](../www/most%20addicts%20are%20trauma%20survivors.md)   
-- Misunderstood: [hackers are ethical](../www-old2/hackers%20are%20ethical.md)
+- Misunderstood: [hackers are ethical](../www/hackers%20are%20ethical.md)   
+   
+### Society Sucks   
+   
+- Most people are wrong: [the majority is never correct](../www/the%20majority%20is%20never%20correct.md)
