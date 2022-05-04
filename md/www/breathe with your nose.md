@@ -18,6 +18,6 @@ My sinuses definitely clear up when I remember to shut my damn mouth and breathe
    
    
 ---   
-source:: [huberman-lab-15-how-to-optimize-testosterone-estrogen](../www/neuroscience/huberman-lab-15-how-to-optimize-testosterone-estrogen.md)   
+source:: [huberman-lab-15-how-to-optimize-testosterone-estrogen](./neuroscience/huberman-lab-15-how-to-optimize-testosterone-estrogen.md)   
 topic:: [breath](/not_created.md)   
 topic:: [Health](/not_created.md)

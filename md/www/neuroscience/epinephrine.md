@@ -10,5 +10,5 @@ Epinephrine when released in the brain, adrenaline when released in the body. Sa
    
 Tightly tied to attention, and therefore  [executive function](/not_created.md).   
    
-A [catecholamine](../../www/neuroscience/catecholamine.md).     
+A [catecholamine](../neuroscience/catecholamine.md).     
 [dopamine](/not_created.md) is a precursor to epinephrine.

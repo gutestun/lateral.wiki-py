@@ -14,7 +14,7 @@ For me it is also a way of revisiting memories. As they bubble up, I write them 
    
 It's a nice way of rummagint through ones damp, dark, sharply edged and metallic memory conduits.   
    
-[The essence of a digital garden is a personal website that foregoes navigational elements](../www/The%20essence%20of%20a%20digital%20garden%20is%20a%20personal%20website%20that%20foregoes%20navigational%20elements.md)   
+[The essence of a digital garden is a personal website that foregoes navigational elements](./The%20essence%20of%20a%20digital%20garden%20is%20a%20personal%20website%20that%20foregoes%20navigational%20elements.md)   
    
    
    
@@ -43,8 +43,8 @@ There seems to be an overlap of digital gardeners and information systems design
    
 ## What Digital Gardens Are to Me   
    
-- [The best digital garden retains a sense of wilderness](../www/The%20best%20digital%20garden%20retains%20a%20sense%20of%20wilderness.md)   
-- [Digital Garden Flaneuring](../www/Digital%20Garden%20Flaneuring.md)   
+- [The best digital garden retains a sense of wilderness](./The%20best%20digital%20garden%20retains%20a%20sense%20of%20wilderness.md)   
+- [Digital Garden Flaneuring](./Digital%20Garden%20Flaneuring.md)   
 - I have some notes on [choosing the right technology stack for your (my) digital garden](/not_created.md).   
 - I also have some [thoughts about the topology of my digital garden](/not_created.md)   
    

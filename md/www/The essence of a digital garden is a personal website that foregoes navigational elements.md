@@ -9,10 +9,10 @@ updated: 2021-03-03 20:11
 ---
    
 ## The essence of a digital garden   
-A [Digital Garden](../www/Digital%20Garden.md), in essence, is a personal website that foregoes any - or most - navigational elements   
+A [Digital Garden](./Digital%20Garden.md), in essence, is a personal website that foregoes any - or most - navigational elements   
    
-See also:: [The best digital garden retains a sense of wilderness](../www/The%20best%20digital%20garden%20retains%20a%20sense%20of%20wilderness.md)   
+See also:: [The best digital garden retains a sense of wilderness](./The%20best%20digital%20garden%20retains%20a%20sense%20of%20wilderness.md)   
    
    
 ---   
-topic:: topic:: [Digital Garden](../www/Digital%20Garden.md)
+topic:: topic:: [Digital Garden](./Digital%20Garden.md)

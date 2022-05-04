@@ -14,25 +14,25 @@ Overcome confirmation bias.
 This is all pretty dire. Reading it over I wonder why I am not more severely depressed than I, in fact, actually am. I guess I don't hold any strong opinions about the sublime and transcendental. I have strong, intense experiences of them, but I try to not have opinions.   
    
    
-- Addiction: [most addicts are trauma survivors](../www/most%20addicts%20are%20trauma%20survivors.md)   
-- Misunderstood: [hackers are ethical](../www/hackers%20are%20ethical.md)   
+- Addiction: [most addicts are trauma survivors](./most%20addicts%20are%20trauma%20survivors.md)   
+- Misunderstood: [hackers are ethical](./hackers%20are%20ethical.md)   
    
 ### Society Sucks   
    
-- Most people are wrong: [the majority is never correct](../www/the%20majority%20is%20never%20correct.md)   
+- Most people are wrong: [the majority is never correct](./the%20majority%20is%20never%20correct.md)   
    
    
 ### Death   
    
-- Let me re-enter the stream ASAP: [feed my dead body to the vultures](../www/feed%20my%20dead%20body%20to%20the%20vultures.md)   
+- Let me re-enter the stream ASAP: [feed my dead body to the vultures](./feed%20my%20dead%20body%20to%20the%20vultures.md)   
    
    
 ### The Human Condition   
 Mostly consciousness and epistemology, and - i realise - a lot about free will, and the probable lack thereof. Also, solipsism.   
    
    
-- [I think we should have Existential crises all the time, I think it's good for the soul - Brian Greene](../www/I%20think%20we%20should%20have%20Existential%20crises%20all%20the%20time%2C%20I%20think%20it%27s%20good%20for%20the%20soul%20-%20Brian%20Greene.md)   
+- [I think we should have Existential crises all the time, I think it's good for the soul - Brian Greene](./I%20think%20we%20should%20have%20Existential%20crises%20all%20the%20time%2C%20I%20think%20it%27s%20good%20for%20the%20soul%20-%20Brian%20Greene.md)   
    
 #### Recursion (also: Free Will, hahaha)   
    
-- Never Entirely Right: [t.everything in the brain is an abstraction](../www/t.everything%20in%20the%20brain%20is%20an%20abstraction.md)
+- Never Entirely Right: [t.everything in the brain is an abstraction](./t.everything%20in%20the%20brain%20is%20an%20abstraction.md)

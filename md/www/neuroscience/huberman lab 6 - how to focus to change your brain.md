@@ -9,9 +9,9 @@ updated: 2022-04-30 19:54
    
    
 - [acetylcholine](/not_created.md) regulates focus   
-- [epinephrine](../../www/neuroscience/epinephrine.md) regulates alertness    
+- [epinephrine](../neuroscience/epinephrine.md) regulates alertness    
    
-A lot of runners use cholineergic drugs ([catecholamine](../../www/neuroscience/catecholamine.md)) for reaction time, as being first to run when the gun fires decides a lot of races.   
+A lot of runners use cholineergic drugs ([catecholamine](../neuroscience/catecholamine.md)) for reaction time, as being first to run when the gun fires decides a lot of races.   
    
 [NSDR – Non Sleep Deep Rest](/not_created.md)   
    
@@ -26,6 +26,6 @@ This _can_ happen in rodents and non-human primates. In humans the olfactory bul
    
    
 ---   
-podcast:: [huberman-lab-podcast](../../www/neuroscience/huberman-lab-podcast.md)     
+podcast:: [huberman-lab-podcast](../neuroscience/huberman-lab-podcast.md)     
 topic:: [Neuroplasticity](/not_created.md)     
-host:: [Andrew Huberman](../../www/Andrew%20Huberman.md)
+host:: [Andrew Huberman](../Andrew%20Huberman.md)

@@ -20,5 +20,5 @@ updated: 2021-04-09 23:26
    
    
 ---   
-related:: [The paradox of consensus and ibsen](../www/The%20paradox%20of%20consensus%20and%20ibsen.md)   
+related:: [The paradox of consensus and ibsen](./The%20paradox%20of%20consensus%20and%20ibsen.md)   
 related:: [John Kenneth Galbraith](https://en.wikipedia.org/wiki/John_Kenneth_Galbraith "John Kenneth Galbraith") via. [Lateral thinking - Wikipedia](https://en.wikipedia.org/wiki/Lateral_thinking)

@@ -5,12 +5,12 @@ updated: 2022-05-02 13:02
 ---
    
 ## TL;DR   
-[nutraceutical](../../www/neuroscience/nutraceutical.md) that helps with memory and alertness. Precursor to [dopamine](/not_created.md).   
+[nutraceutical](../neuroscience/nutraceutical.md) that helps with memory and alertness. Precursor to [dopamine](/not_created.md).   
    
    
 ## Effects, Use   
    
-I trust [Andrew Huberman](../../www/Andrew%20Huberman.md), so I am listing his effects and benefits first. He is a neurologist with a PhD after all, and uses tyrosine himself. He praises tyrosine for:   
+I trust [Andrew Huberman](../Andrew%20Huberman.md), so I am listing his effects and benefits first. He is a neurologist with a PhD after all, and uses tyrosine himself. He praises tyrosine for:   
    
 - production of [dopamine](/not_created.md)   
 Which would naturally lead us to expect:   
@@ -78,12 +78,12 @@ After considering the above points (when tyrosine *does do good*) I'd estimate t
 ## Neurochemistry   
 Tyrosine is created from phenylalanine     
    
-Tyrosine → [L-DOPA](/not_created.md) → [dopamine](/not_created.md) → [norepinephrine](/not_created.md) → [epinephrine](../../www/neuroscience/epinephrine.md)    
+Tyrosine → [L-DOPA](/not_created.md) → [dopamine](/not_created.md) → [norepinephrine](/not_created.md) → [epinephrine](../neuroscience/epinephrine.md)    
    
 This chain makes it a candidate for possibly helping with adhd as well, albeit evidence to the contrary.     
 I also have a hypothesis that [bupropion and tyrosine taken together potentiate each others effect](/not_created.md)   
    
-See also:: [Tyrosine for Depression](../../www/neuroscience/Tyrosine%20for%20Depression.md)   
+See also:: [Tyrosine for Depression](../neuroscience/Tyrosine%20for%20Depression.md)   
 About dosage and titration   
    
 N-Acetyl-L-Tyrosine supposedly works better, but; a study showed it did not increase tyrosine levels at all.   
@@ -107,16 +107,16 @@ Tyrosine needs help by way of
 Source: [a.nedley depression anxiety treatment - tyrosine dopamine norepinephrine](/not_created.md)   
    
 ## See Also   
-See also:: [Tyrosine for Depression](../../www/neuroscience/Tyrosine%20for%20Depression.md)   
+See also:: [Tyrosine for Depression](../neuroscience/Tyrosine%20for%20Depression.md)   
    
    
    
 ---   
-topic:: [nutraceutical](../../www/neuroscience/nutraceutical.md).    
-via:: [huberman lab 11 - how foods and nutrients control our moods](../../www/neuroscience/huberman%20lab%2011%20-%20how%20foods%20and%20nutrients%20control%20our%20moods.md)     
+topic:: [nutraceutical](../neuroscience/nutraceutical.md).    
+via:: [huberman lab 11 - how foods and nutrients control our moods](../neuroscience/huberman%20lab%2011%20-%20how%20foods%20and%20nutrients%20control%20our%20moods.md)     
      
-source:: [huberman lab 11 - how foods and nutrients control our moods](../../www/neuroscience/huberman%20lab%2011%20-%20how%20foods%20and%20nutrients%20control%20our%20moods.md)     
+source:: [huberman lab 11 - how foods and nutrients control our moods](../neuroscience/huberman%20lab%2011%20-%20how%20foods%20and%20nutrients%20control%20our%20moods.md)     
 source:: [8 Potential L-Tyrosine Benefits + Dosage & Side Effects - SelfHacked](https://selfhacked.com/blog/tyrosine-6-proven-health-benefits-tyrosine/)     
-source:: WebMD – [TYROSINE: Overview, Uses, Side Effects, Prec. utions, Interactions, Dosing and Reviews](../../www/neuroscience/tyrosine.md)     
+source:: WebMD – [TYROSINE: Overview, Uses, Side Effects, Prec. utions, Interactions, Dosing and Reviews](../neuroscience/tyrosine.md)     
 source:: [a.nedley depression anxiety treatm. nt - tyrosine dopamine norepinephrine](/not_created.md).     
 source:: [Neuro-Cognitive Effects of Acute Tyrosine Administration on Reactive and Proactive Response Inhibition in Healthy Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6084775/)

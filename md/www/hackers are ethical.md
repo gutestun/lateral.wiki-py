@@ -4,7 +4,7 @@ tags: []
 title: hackers are ethical
 ---
    
-The [hacker ethos](../www/hacker%20ethos.md) is not necessarily to break in and break stuff. It is difficult to reconcile that the equivalent in the physical world would be that if a door is open, one should go in, have a look around, find out if there are secrets there, then erase ones tracks as you leave, and then find a relevant person to contact and tell them that their door was unlocked. They would be pretty upset that you rummaged around in their house and not so greateful.   
+The [hacker ethos](./hacker%20ethos.md) is not necessarily to break in and break stuff. It is difficult to reconcile that the equivalent in the physical world would be that if a door is open, one should go in, have a look around, find out if there are secrets there, then erase ones tracks as you leave, and then find a relevant person to contact and tell them that their door was unlocked. They would be pretty upset that you rummaged around in their house and not so greateful.   
    
 This relates so much to privacy, and I have an anecdote:   
    

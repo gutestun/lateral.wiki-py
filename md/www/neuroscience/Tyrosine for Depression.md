@@ -29,4 +29,4 @@ updated: 2021-03-17
    
    
 ---   
-via:: [tyrosine](../../www/neuroscience/tyrosine.md)
+via:: [tyrosine](../neuroscience/tyrosine.md)

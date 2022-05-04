@@ -8,7 +8,7 @@ updated: 2021-01-17 20:37
 ---
    
 >Everything in the brain is an abstraction   
->– [Andrew Huberman](../www/Andrew%20Huberman.md)   
+>– [Andrew Huberman](./Andrew%20Huberman.md)   
    
 All perceptions are either 1:1 representations of sensory input or abstractions, and it's in the abstractions our perception comes in, not in the (what we assume are) 1:1 representations*   
    

@@ -35,7 +35,7 @@ Get sunlight in the evening to
 People who thrive on a ketogenic diet are more ofthen than not hormone enhanced. Your body would have more difficulty making use of the food if you don't supplement with hormones.   
    
 fasting promotes alertness   
-[epinephrine](../../www/neuroscience/epinephrine.md) will be released   
+[epinephrine](../neuroscience/epinephrine.md) will be released   
    
 Fasting or being on a ketogenic diet can give troubles sleeping as you will be in a high alertness state with epinephrine being released.   
    
@@ -53,5 +53,5 @@ Related:
 - [carbohydrates](/not_created.md)   
 - [sleep](/not_created.md)   
 ---   
-podcast:: [huberman-lab-podcast](../../www/neuroscience/huberman-lab-podcast.md)   
-topic:: [neuroscience](../../neuroscience.md)
+podcast:: [huberman-lab-podcast](../neuroscience/huberman-lab-podcast.md)   
+topic:: [neuroscience](/not_created.md)

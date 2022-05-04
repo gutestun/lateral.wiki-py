@@ -27,10 +27,10 @@ melatonin is made from serotonin
    
    
 ---   
-podcast:: [huberman-lab-podcast](../../www/neuroscience/huberman-lab-podcast.md)     
-host:: [Andrew Huberman](../../www/Andrew%20Huberman.md)   
-topic:: [neuroscience](../../neuroscience.md)     
+podcast:: [huberman-lab-podcast](../neuroscience/huberman-lab-podcast.md)     
+host:: [Andrew Huberman](../Andrew%20Huberman.md)   
+topic:: [neuroscience](/not_created.md)     
 topic:: [sleep](/not_created.md)     
 topic:: [Learning](/not_created.md)     
 topic:: [metabolism](/not_created.md)     
-host:: [Andrew Huberman](../../www/Andrew%20Huberman.md)
+host:: [Andrew Huberman](../Andrew%20Huberman.md)

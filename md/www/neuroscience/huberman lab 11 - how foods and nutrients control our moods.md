@@ -5,7 +5,7 @@ type: podcast episode
 updated: 2022-04-30 19:54
 ---
    
-[tyrosine](../../www/neuroscience/tyrosine.md) is the precursor to [l-dopa](/not_created.md) (which is a precursor to dopamine) among others   
+[tyrosine](../neuroscience/tyrosine.md) is the precursor to [l-dopa](/not_created.md) (which is a precursor to dopamine) among others   
    
 Dietary L-Tyrosine supports the production of dopamine.   
    
@@ -21,6 +21,6 @@ in meat, beef in particular
    
    
 ---   
-podcast:: [huberman-lab-podcast](../../www/neuroscience/huberman-lab-podcast.md)   
+podcast:: [huberman-lab-podcast](../neuroscience/huberman-lab-podcast.md)   
 topic:: [nutrition](/not_created.md)   
-host:: [Andrew Huberman](../../www/Andrew%20Huberman.md)
+host:: [Andrew Huberman](../Andrew%20Huberman.md)

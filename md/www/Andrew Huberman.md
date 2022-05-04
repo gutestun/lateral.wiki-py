@@ -10,13 +10,13 @@ Neuroscientist with his own podcast:
    
 ## Huberman Lab Podcast   
    
-- [huberman lab 3 - using science optimize sleep learning and metabolism](../www/neuroscience/huberman%20lab%203%20-%20using%20science%20optimize%20sleep%20learning%20and%20metabolism.md)   
-- [huberman lab 6 - how to focus to change your brain](../www/neuroscience/huberman%20lab%206%20-%20how%20to%20focus%20to%20change%20your%20brain.md)   
+- [huberman lab 3 - using science optimize sleep learning and metabolism](./neuroscience/huberman%20lab%203%20-%20using%20science%20optimize%20sleep%20learning%20and%20metabolism.md)   
+- [huberman lab 6 - how to focus to change your brain](./neuroscience/huberman%20lab%206%20-%20how%20to%20focus%20to%20change%20your%20brain.md)   
 	- [acetylcholine](/not_created.md)   
-	- [epinephrine](../www/neuroscience/epinephrine.md)   
-- [huberman lab 8 - optimize your brain with science-based tools](../www/neuroscience/huberman%20lab%208%20-%20optimize%20your%20brain%20with%20science-based%20tools.md)   
-- [huberman lab 11 - how foods and nutrients control our moods](../www/neuroscience/huberman%20lab%2011%20-%20how%20foods%20and%20nutrients%20control%20our%20moods.md)   
-	- [tyrosine](../www/neuroscience/tyrosine.md)   
+	- [epinephrine](./neuroscience/epinephrine.md)   
+- [huberman lab 8 - optimize your brain with science-based tools](./neuroscience/huberman%20lab%208%20-%20optimize%20your%20brain%20with%20science-based%20tools.md)   
+- [huberman lab 11 - how foods and nutrients control our moods](./neuroscience/huberman%20lab%2011%20-%20how%20foods%20and%20nutrients%20control%20our%20moods.md)   
+	- [tyrosine](./neuroscience/tyrosine.md)   
 	- [l-dopa](/not_created.md)   
    
    
