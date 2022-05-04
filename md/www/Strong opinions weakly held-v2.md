@@ -14,4 +14,5 @@ Overcome confirmation bias.
 This is all pretty dire. Reading it over I wonder why I am not more severely depressed than I, in fact, actually am. I guess I don't hold any strong opinions about the sublime and transcendental. I have strong, intense experiences of them, but I try to not have opinions.   
    
    
-- Addiction: [most addicts are trauma survivors](../www-old2/most%20addicts%20are%20trauma%20survivors.md)
+- Addiction: [most addicts are trauma survivors](../www/most%20addicts%20are%20trauma%20survivors.md)   
+- Misunderstood: [hackers are ethical](../www-old2/hackers%20are%20ethical.md)
