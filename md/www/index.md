@@ -12,7 +12,13 @@ Links within double square brackets are internal, other links will lead you out 
    
 ## A Couple Starting Points   
    
-First, my meager writings, then a couple interests, finally a couple opinions.   
+Some thoughts and opinions, a couple interests.   
    
-### 🧠💪 [Strong opinions weakly held-v2](./Strong%20opinions%20weakly%20held-v2.md)     
-Change your mind, and change it often. Remember to use conditioner and fabric softener. Warranty voided.
+### What I Think   
+   
+#### 🧠💪 [Strong Opinions Weakly Held](./_moc-Strong%20opinions%20weakly%20held-v2.md)     
+Change your mind, and change it often. Remember to use conditioner and fabric softener. Warranty voided.   
+   
+### Interests   
+   
+#### 🧠 [Neuroscience](./neuroscience/_moc-neuroscience.md)
