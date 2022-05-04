@@ -1,5 +1,7 @@
 ---
 created: 2021-03-17 09:00
+tags:
+- neuroscience
 title: Tyrosine
 updated: 2022-05-02 13:02
 ---

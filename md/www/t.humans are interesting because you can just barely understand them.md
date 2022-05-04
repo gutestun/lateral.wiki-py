@@ -1,10 +1,13 @@
 ---
 created: 2020-12-15
+tags:
+- consciousness
+- perception
 type: thought
 updated: 2021-06-21
 ---
    
-Faces are so intersting to look at because they have just the amount of complexity your sensing apparatus can process.   
+Faces are so interesting to look at because they have just the amount of complexity your sensing apparatus can process.   
    
 Everything we find fascinating we do so because it lies just on the edge of what we can comprehend.   
    

@@ -1,4 +1,6 @@
 ---
+tags:
+- consciousness
 title: Human Consciousness
 type: placeholder
 ---
