@@ -26,6 +26,7 @@ This is all pretty dire. Reading it over I wonder why I am not more severely dep
    
 ### Death   
    
+- Don't let me die in pain, in vain, or insane: [death should be a decision](./death%20should%20be%20a%20decision.md). It would be less painful, more meaningful.   
 - Let me re-enter the stream ASAP: [feed my dead body to the vultures](./feed%20my%20dead%20body%20to%20the%20vultures.md)   
    
    
