@@ -31,7 +31,11 @@ This is all pretty dire. Reading it over I wonder why I am not more severely dep
 Mostly consciousness and epistemology, and - i realise - a lot about free will, and the probable lack thereof. Also, solipsism.   
    
    
-- [I think we should have Existential crises all the time, I think it's good for the soul - Brian Greene](./I%20think%20we%20should%20have%20Existential%20crises%20all%20the%20time%2C%20I%20think%20it%27s%20good%20for%20the%20soul%20-%20Brian%20Greene.md)   
+- [q.I think we should have Existential crises all the time, I think it's good for the soul - Brian Greene](./q.I%20think%20we%20should%20have%20Existential%20crises%20all%20the%20time%2C%20I%20think%20it%27s%20good%20for%20the%20soul%20-%20Brian%20Greene.md)   
+   
+#### Resistance is Futile   
+   
+- Beautiful Emptiness: [There is no fundamental notion of meaning in reality – There is no fundamental meaning of purpose – There is no fundamental meaning of value](./There%20is%20no%20fundamental%20notion%20of%20meaning%20in%20reality%20%E2%80%93%20There%20is%20no%20fundamental%20meaning%20of%20purpose%20%E2%80%93%20There%20is%20no%20fundamental%20meaning%20of%20value.md)   
    
 #### Recursion (also: Free Will, hahaha)   
    
