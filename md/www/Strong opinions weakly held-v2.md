@@ -35,4 +35,5 @@ Mostly consciousness and epistemology, and - i realise - a lot about free will, 
    
 #### Recursion (also: Free Will, hahaha)   
    
-- Never Entirely Right: [t.everything in the brain is an abstraction](./t.everything%20in%20the%20brain%20is%20an%20abstraction.md)
+- Never Entirely Right: [t.everything in the brain is an abstraction](./t.everything%20in%20the%20brain%20is%20an%20abstraction.md)   
+- Forever on the Cusp of  Complete Understanding: [t.humans are interesting because you can just barely understand them](./t.humans%20are%20interesting%20because%20you%20can%20just%20barely%20understand%20them.md)
