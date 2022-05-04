@@ -3,6 +3,7 @@ category: null
 created: 2021-03-02 17:18
 tags:
 - neuroscience
+- quote
 title: The brain does not classify, it does concept construction
 topic: null
 type: quote
@@ -12,6 +13,7 @@ updated: 2021-03-02 17:18
 **neuroscience**    
    
 >The brain does not classify, it does concept construction   
+>- Lisa Feldman Barrett, Lex Fridman Podcast - 129   
    
    
 ---   
