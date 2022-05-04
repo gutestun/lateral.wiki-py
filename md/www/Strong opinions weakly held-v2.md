@@ -19,4 +19,9 @@ This is all pretty dire. Reading it over I wonder why I am not more severely dep
    
 ### Society Sucks   
    
-- Most people are wrong: [the majority is never correct](../www/the%20majority%20is%20never%20correct.md)
+- Most people are wrong: [the majority is never correct](../www/the%20majority%20is%20never%20correct.md)   
+   
+   
+### Death   
+   
+- Let me re-enter the stream ASAP: [feed my dead body to the vultures](../www/feed%20my%20dead%20body%20to%20the%20vultures.md)
