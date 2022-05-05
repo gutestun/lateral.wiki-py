@@ -1,0 +1,1 @@
+obsidianhtml -i config-win.yaml -v

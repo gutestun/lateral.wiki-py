@@ -1,7 +1,7 @@
 ---
 Title: Index of latera.wiki
 created: 2022-05-04 13:01
-updated: 2022-05-04 13:01
+updated: 2022-05-05 17:14
 ---
    
 ## What's this then?   
@@ -18,6 +18,7 @@ Some thoughts and opinions, a couple interests.
    
 #### 🧠💪 [Strong Opinions Weakly Held](./_moc-Strong%20opinions%20weakly%20held-v2.md)     
 Change your mind, and change it often. Remember to use conditioner and fabric softener. Warranty voided.   
+   
    
 ### Interests   
    
