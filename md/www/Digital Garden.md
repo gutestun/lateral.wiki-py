@@ -17,17 +17,34 @@ For me it is also a way of revisiting memories. As they bubble up, I write them 
    
 It's a cozy and comforting way to rummage through ones damp, dark, sharply edged and metallic memory conduits. Usually there's rust and leaking fluids as well. Not the clean Jeffrey Tubes of [tng](/not_created.md).   
    
+A core tenet of digital gardening is to forget perfectionism. Your flowers will get pests, your fruit trees will be crooked, snails will eat your flowers, deer will feast upon your berries. A perfectly manicured garden is not what a garden is for. A perfectly manicured garden is obsesion – a garden is for play, relaxing, having shower thoughts.   
    
-- [The best digital garden retains a sense of wilderness](./The%20best%20digital%20garden%20retains%20a%20sense%20of%20wilderness.md)   
-- [The essence of a digital garden is a personal website that foregoes navigational elements](./The%20essence%20of%20a%20digital%20garden%20is%20a%20personal%20website%20that%20foregoes%20navigational%20elements.md)   
-- [Digital Garden Flaneuring](./Digital%20Garden%20Flaneuring.md)   
+### The Best Digital Garden Retains a Sense of Wilderness   
+A good digital garden graph should be well-connected, but not too much. There should be dead ends, alleyways from which you can only escape by retracing your steps. You *should* get lost. You should *have* to retrace your steps. [Digital gardens forego most traditional navigational elements.](./The%20essence%20of%20a%20digital%20garden%20is%20a%20personal%20website%20that%20foregoes%20navigational%20elements.md)   
+   
+Illustrated by way of [adventure games](/not_created.md)    
+   
+![](assets/digital-gardens-monkey-island-forest-maze.png)   
+   
+   
+As my wife and I decided after buying a house with a well-kept garden: It is for children to play in. For neighbours and friends to eat barbequeue and drink white wine in. And occasionally to enjoy the breeze while pissing on an apple tree.   
    
 >I’ve collected a list of websites which reminded me having a wealth of content is more important than the form it takes, and I decided to stop obsessing over ingenuity in favour of doing something that will exist sooner rather than later   
 >- [https://winnielim.org/library/collections/personal-websites-with-a-wealth-of-information/](https://winnielim.org/library/collections/personal-websites-with-a-wealth-of-information/) - personal websites with a wealth of information - is a synonym for digital garden   
    
-A core tenet of digital gardening is to forget perfectionism. Your flowers will get pests, your fruit trees will be crooked, snails will eat your flowers, deer will feast upon your berries. A perfectly manicured garden is not what a garden is for. A perfectly manicured garden is obsesion – a garden is for play, relaxing, having shower thoughts.   
    
-As my wife and I decided after buying a house with a well-kept garden: It is for children to play in. For neighbours and friends to eat barbequeue and drink white wine in. And occasionally to enjoy the breeze while pissing on an apple tree.   
+   
+### Flaneuring the Garden   
+I think flaneuring describes how I explore digital gardens best.   
+   
+It is also how digital gardens are intended to be… processed, to use a far less organic word. At least it seems to be the trend.   
+   
+Is this too urban and technical terminology? It's causing some cognitive dissonance to reconcile "digital" and "gardening". But I'm trying by [flaneuring the wilderness](./The%20best%20digital%20garden%20retains%20a%20sense%20of%20wilderness.md).   
+   
+   
+   
+   
+   
    
    
 ---   

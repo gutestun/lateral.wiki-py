@@ -1,0 +1,1 @@
+obsidianhtml -i config.yaml -v

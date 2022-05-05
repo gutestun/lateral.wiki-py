@@ -1,0 +1,58 @@
+# The first folder that contains all obsidian files
+# Use full path or relative path, but don't use ~/
+obsidian_folder_path_str: '/Users/ben/Resilio Sync/_txt/www' 
+
+# The note that will be used as the index.html 
+# should be in obsidian_folder_path_str
+# Use full path or relative path, but don't use ~/
+obsidian_entrypoint_path_str: '/Users/ben/Resilio Sync/_txt/www/_moc.www-index-v2.md'
+
+html_output_folder_path_str: '/Users/ben/Github/lateral.wiki-py/html/www'
+md_folder_path_str: '/Users/ben/Github/lateral.wiki-py/md/www'
+md_entrypoint_path_str: '/Users/ben/Github/lateral.wiki-py/md/www/index.md'
+
+exclude_subfolders:
+  - ".obsidian"
+  - ".obsidian-ipad"
+  - ".obsidian-mac-mini"
+  - ".obsidian-n10"
+  - ".obsidian-p20"
+  - ".obsidian-tab"
+  - ".obsidian-w10laptop"
+  - ".obsidian-yoga"
+  - ".sync"
+  - ".trash"
+  - "DS_Store"
+  - "_inbox"
+  - "_meta"
+  - "_test"
+  - "Addins"
+  - "archive"
+  - "Journal"
+  - "Notes"
+  - "Pappaperm"
+  - "People"
+  - "Personal"
+  - "Professional"
+  - "SEO Wiki"
+  - "To"
+  - "Work.Elkjøp"
+  - "Work.Fullstakk"
+  - "work.fullstakk-pappaperm"
+  - "www-old"
+  - "www-old2"
+  - "www-seo"
+  # obsidian graph exclude
+  # -path:(_inbox OR _meta OR _test OR archive OR Journal OR Notes OR Pappaperm OR People OR Personal OR Professional OR "SEO Wiki" OR To OR Work.Elkjøp OR Work.Fullstakk OR work.fullstakk-pappaperm OR "www-old" OR "www-old2" OR "www-seo")
+
+
+
+toggles:
+  features:
+    graph:
+      template: 2d # https://obsidian-html.github.io/Configurations/Styling/Writing%20a%20custom%20graph%20view%20template.html
+    styling: 
+      layout: no_tabs # documentation, tabs, no_tabs
+      add_toc: False # adds table of contents on every note, looks shit when no headings though, as literal "[TOC]" is added at top of note...
+      toc_pane: True # table of contents in pane to the right
+      max_note_width: 52rem

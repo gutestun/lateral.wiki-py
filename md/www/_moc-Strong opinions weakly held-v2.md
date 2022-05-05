@@ -29,12 +29,17 @@ This is all pretty dire. Reading it over I wonder why I am not more severely dep
 - Don't let me die in pain, in vain, or insane: [death should be a decision](./death%20should%20be%20a%20decision.md). It would be less painful, more meaningful.   
 - Let me re-enter the stream ASAP: [feed my dead body to the vultures](./feed%20my%20dead%20body%20to%20the%20vultures.md)   
    
+### The Mystical and transcendent (also; religion)   
+   
+- Religion is [lies-to-children](./lies-to-children.md)   
+- Relax: [Hurl yourself into the abyss and discover it is a featherbed. This is how magic is done.](./This%20is%20how%20magic%20is%20done%20-%20by%20hurling%20yourself%20into%20the%20abyss%20and%20discovering%20its%20a%20featherbed.md)   
    
 ### The Human Condition   
 Mostly consciousness and epistemology, and - i realise - a lot about free will, and the probable lack thereof. Also, solipsism.   
    
    
 - [q.I think we should have Existential crises all the time, I think it's good for the soul - Brian Greene](./q.I%20think%20we%20should%20have%20Existential%20crises%20all%20the%20time%2C%20I%20think%20it%27s%20good%20for%20the%20soul%20-%20Brian%20Greene.md)   
+- [Any talent, wisdom or insight you have that you don’t share becomes pain](./Any%20talent%2C%20wisdom%20or%20insight%20you%20have%20that%20you%20don%E2%80%99t%20share%20becomes%20pain.md)   
    
 #### Resistance is Futile   
    
@@ -43,4 +48,20 @@ Mostly consciousness and epistemology, and - i realise - a lot about free will, 
 #### Recursion (also: Free Will, hahaha)   
    
 - Never Entirely Right: [t.everything in the brain is an abstraction](./t.everything%20in%20the%20brain%20is%20an%20abstraction.md)   
-- Forever on the Cusp of  Complete Understanding: [t.humans are interesting because you can just barely understand them](./t.humans%20are%20interesting%20because%20you%20can%20just%20barely%20understand%20them.md)
+- Forever on the Cusp of  Complete Understanding: [t.humans are interesting because you can just barely understand them](./t.humans%20are%20interesting%20because%20you%20can%20just%20barely%20understand%20them.md)   
+   
+#### Puny Minds   
+   
+- Eternal Ignorance: [I will never understand reality](./I%20will%20never%20understand%20reality.md)   
+- You Can't Even: [no, its probably a lot weirder than you think](./no%2C%20its%20probably%20a%20lot%20weirder%20than%20you%20think.md)   
+- Can't Know Thy Self: [human consciousness might be so processed - so derivative - that we dont recognise the basic thing](./human%20consciousness%20might%20be%20so%20processed%20-%20so%20derivative%20-%20that%20we%20dont%20recognise%20the%20basic%20thing.md)   
+   
+#### Fre Will, hahaha (also: Recursion)   
+   
+- Think Again: [humans are automatons](./humans%20are%20automatons.md)   
+- Think Again, Again: [decisions are illusory](./decisions%20are%20illusory.md)   
+   
+#### Neurochemical Correlates to Consciousness (again: Fre Will, hahaha)   
+   
+- Think Again, Again, Again: [every psychological event has a biological correllate](./every%20psychological%20event%20has%20a%20biological%20correllate.md)   
+- Think Ag... Thinking is a Process, the Nature of Which You Are Confused About: [subjective experience and biological chemical process are two sides of the same coin](./subjective%20experience%20and%20biological%20chemical%20process%20are%20two%20sides%20of%20the%20same%20coin.md)
