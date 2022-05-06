@@ -4,14 +4,16 @@ status: seed
 tags: []
 title: My kids are not mine and they are not kids
 type: biographical
-updated: 2022-05-05 22:22
+updated: 2022-05-05 22:23
 ---
    
 # My kids are not mine and they are not kids   
    
 I think of them like visiting, and not being "mine". Also, I try to view them as full individuals that are already grown up, and in some ways have surpassed me in ability and wisdom.   
    
-It helps me keep on track in how I talk to them and how I behave. And not least, how I think about them and our time together. It makes me more of an ally and guide than a top-down dictatorial parent. I hope. I think.   
+It helps me keep on track in how I talk to them and how I behave. And not least, how I think about them and our time together. It makes me more of an ally and guide than a top-down dictatorial parent.   
+   
+It makes me respect them as full individuals, as autonomous agents, with their own thoughts, opinions, view of the world, hopes, wishes, fears, dreams. This can be all too easy to forget sometimes.   
    
    
 ---   

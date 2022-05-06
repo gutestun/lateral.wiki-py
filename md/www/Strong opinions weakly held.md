@@ -1,7 +1,7 @@
 ---
-created: 2022-05-04 13:12
+created: 2021-06-21
 title: Strong Opinions Weakly Held
-updated: 2022-05-05 22:22
+updated: 2022-05-05 22:44
 ---
    
 # Strong Opinions Weakly Held   
@@ -24,7 +24,7 @@ Seriously; Your Chill is Blocking Other People: [keep moving and get out of the 
 Addiction: [most addicts are trauma survivors](./most%20addicts%20are%20trauma%20survivors.md)   
    
 ### Parenting   
-Just visiting co-mentors: [My kids are not mine and they are not kids](./My%20kids%20are%20not%20mine%20and%20they%20are%20not%20kids.md)   
+Just visiting co-mentors: [My kids are not mine and they are not kids](./My%20kids%20are%20not%20mine%20and%20they%20are%20not%20kids.md).   
 [what i want my children to know](./what%20i%20want%20my%20children%20to%20know.md)   
    
 ### Society Sucks   
@@ -33,7 +33,7 @@ Most people are wrong: [the majority is never correct](./the%20majority%20is%20n
    
 ### Death   
 Don't let me die in pain, in vain, or insane: [death should be a decision](./death%20should%20be%20a%20decision.md). It would be less painful, more meaningful.   
-Let me re-enter the stream ASAP: [feed my dead body to the vultures](./feed%20my%20dead%20body%20to%20the%20vultures.md)   
+Let me re-enter the stream ASAP: [feed my dead body to the vultures](./feed%20my%20dead%20body%20to%20the%20vultures.md).   
    
 ### The Mystical and transcendent (also; religion)   
 Religion is [lies-to-children](./lies-to-children.md)   
@@ -42,11 +42,11 @@ Relax: [Hurl yourself into the abyss and discover it is a featherbed. This is ho
 ### The Human Condition   
 Mostly consciousness and epistemology, and - i realise - a lot about free will, and the probable lack thereof. Also, solipsism.   
    
-[q.I think we should have Existential crises all the time, I think it's good for the soul - Brian Greene](./q.I%20think%20we%20should%20have%20Existential%20crises%20all%20the%20time%2C%20I%20think%20it%27s%20good%20for%20the%20soul%20-%20Brian%20Greene.md)   
-[Any talent, wisdom or insight you have that you don’t share becomes pain](./Any%20talent%2C%20wisdom%20or%20insight%20you%20have%20that%20you%20don%E2%80%99t%20share%20becomes%20pain.md)   
+[q.I think we should have Existential crises all the time, I think it's good for the soul - Brian Greene](./q.I%20think%20we%20should%20have%20Existential%20crises%20all%20the%20time%2C%20I%20think%20it%27s%20good%20for%20the%20soul%20-%20Brian%20Greene.md).   
+[Any talent, wisdom or insight you have that you don’t share becomes pain](./Any%20talent%2C%20wisdom%20or%20insight%20you%20have%20that%20you%20don%E2%80%99t%20share%20becomes%20pain.md).   
    
 **Resistance is Futile**   
-Beautiful Emptiness: [There is no fundamental notion of meaning in reality – There is no fundamental meaning of purpose – There is no fundamental meaning of value](./There%20is%20no%20fundamental%20notion%20of%20meaning%20in%20reality%20%E2%80%93%20There%20is%20no%20fundamental%20meaning%20of%20purpose%20%E2%80%93%20There%20is%20no%20fundamental%20meaning%20of%20value.md)   
+Beautiful Emptiness: [There is no fundamental notion of meaning in reality – There is no fundamental meaning of purpose – There is no fundamental meaning of value](./There%20is%20no%20fundamental%20notion%20of%20meaning%20in%20reality%20%E2%80%93%20There%20is%20no%20fundamental%20meaning%20of%20purpose%20%E2%80%93%20There%20is%20no%20fundamental%20meaning%20of%20value.md).   
    
 **Puny Minds**   
 Eternal Ignorance: [I will never understand reality](./I%20will%20never%20understand%20reality.md)   
@@ -69,4 +69,15 @@ Thinking again is a Process, the Nature of Which You Might Be Confused About: [s
 More Than Human After All: [consciousness is not computational in nature](/not_created.md)   
    
    
----
+---   
+**Outside Our Selves: Cosmology**   
+It's Not Made For Us; We Are Made Within It: [I dont buy the fine-tuning hypothesis](./I%20dont%20buy%20the%20fine-tuning%20hypothesis.md)   
+   
+### Strong Opinions about Inconsequentialities   
+You Have Scrolled This Far, You Know This by Now: [The best digital garden retains a sense of wilderness](./The%20best%20digital%20garden%20retains%20a%20sense%20of%20wilderness.md)   
+   
+   
+---   
+   
+See also:: [Aphorisms to live by](/not_created.md)   
+See also:: [Strong Opinions, Weakly Held — a framework for thinking | by Ameet Ranadive | Medium](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364)

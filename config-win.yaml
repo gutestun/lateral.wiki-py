@@ -52,7 +52,6 @@ toggles:
     graph:
       template: 2d # https://obsidian-html.github.io/Configurations/Styling/Writing%20a%20custom%20graph%20view%20template.html
     styling: 
-      layout: no_tabs # documentation, tabs, no_tabs
+      layout: documentation # documentation, tabs, no_tabs
       add_toc: False # adds table of contents on every note, looks shit when no headings though, as literal "[TOC]" is added at top of note...
       toc_pane: True # table of contents in pane to the right
-      max_note_width: 52rem

@@ -1,16 +1,18 @@
 ---
-created: 2021-03-19
+created: 2021-03-19 01:00
 tags:
 - thought
 - cosmology
 - seedling
 title: I will never understand reality
-updated: 2021-03-19
+updated: 2022-05-06 08:20
 ---
    
 I will never understand reality, because the maths behind modern physics (quantum field theory, cosmology in general) is way beyond me.   
    
 Not only do I not know enough maths to appreciate the finer details – or even some "basic" concepts – but I don't see myself putting in/having the resources (time) to learn them.   
+   
+In tandem with this, we also have the fact that [t.what we observe is not the nature of reality but the nature of our perception](./t.what%20we%20observe%20is%20not%20the%20nature%20of%20reality%20but%20the%20nature%20of%20our%20perception.md)   
    
    
 ---   

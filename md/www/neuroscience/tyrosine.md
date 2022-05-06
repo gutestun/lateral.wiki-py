@@ -3,7 +3,7 @@ created: 2021-03-17 09:00
 tags:
 - neuroscience
 title: Tyrosine
-updated: 2022-05-02 13:02
+updated: 2022-05-05 23:00
 ---
    
 ## TL;DR   
@@ -67,7 +67,7 @@ After considering the above points (when tyrosine *does do good*) I'd estimate t
 ### Things We Thought Tyrosine Was Good for but Has no/negative Clinical Evidence:   
    
 - Withdrawal symptons (cocaine, alcohol)   
-- [ADHD](/not_created.md) (oral administration)   
+- [ADHD](../adhd.md) (oral administration)   
 - Athletic performance   
 - Depression (oral administration)   
    
