@@ -1,7 +1,7 @@
 ---
 Title: Index of latera.wiki
 created: 2022-05-04 13:01
-updated: 2022-05-07 14:21
+updated: 2022-05-07 14:47
 ---
    
 ## What's this then?   
@@ -15,6 +15,13 @@ Some thoughts and opinions, a couple interests.
    
 ### 🧠💪 [Strong Opinions Weakly Held](./Strong%20opinions%20weakly%20held.md)     
 Change your mind, and change it often. Remember to use conditioner and fabric softener. Warranty voided.   
+   
+### 🧠🍳 [Shower Thoughts](./Shower%20Thoughts.md)   
+Adding the "shower" befoure "thoughts" relieves me of any accountability, and reduces the risk of you laughing at me (slightly). Because I care deeply about what you think about me.   
+   
+Mostly reflections on consciousness and the various brain sparks that makes cosmology such an interesting topic.    
+   
+[q.Reality is sacred to me, I have a reverence for reality, but I know my best understanding of it is never complete - Danlie Schmachtenberger](./q.Reality%20is%20sacred%20to%20me%2C%20I%20have%20a%20reverence%20for%20reality%2C%20but%20I%20know%20my%20best%20understanding%20of%20it%20is%20never%20complete%20-%20Danlie%20Schmachtenberger.md)   
    
 ## Interests   
    
