@@ -1,7 +1,7 @@
 ---
 Title: Index of latera.wiki
 created: 2022-05-04 13:01
-updated: 2022-05-07 14:47
+updated: 2022-05-07 16:51
 ---
    
 ## What's this then?   
@@ -21,7 +21,7 @@ Adding the "shower" befoure "thoughts" relieves me of any accountability, and re
    
 Mostly reflections on consciousness and the various brain sparks that makes cosmology such an interesting topic.    
    
-[q.Reality is sacred to me, I have a reverence for reality, but I know my best understanding of it is never complete - Danlie Schmachtenberger](./q.Reality%20is%20sacred%20to%20me%2C%20I%20have%20a%20reverence%20for%20reality%2C%20but%20I%20know%20my%20best%20understanding%20of%20it%20is%20never%20complete%20-%20Danlie%20Schmachtenberger.md)   
+[q.Reality is sacred to me, I have a reverence for reality, but I know my best understanding of it is never complete - Daniel Schmachtenberger](./q.Reality%20is%20sacred%20to%20me%2C%20I%20have%20a%20reverence%20for%20reality%2C%20but%20I%20know%20my%20best%20understanding%20of%20it%20is%20never%20complete%20-%20Daniel%20Schmachtenberger.md)   
    
 ## Interests   
    
@@ -60,4 +60,5 @@ It's chronologically sorted small heapings of words.
 ## Log   
 Summaries of my months. What I wrote, what I discovered etcetera.   
    
-- [log-2022-03](./log-2022-03.md)
+- [log-2022-03](./log-2022-03.md)   
+- [log-2022-05](./log-2022-05.md)
