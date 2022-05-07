@@ -4,7 +4,7 @@ tag:
 - bliki
 title: I didn't Like Dogs Until I Did
 type: bliki
-updated: 2022-05-07 13:37
+updated: 2022-05-07 13:50
 ---
    
 # I have a confession: I am a dogist.   

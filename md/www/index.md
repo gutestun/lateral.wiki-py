@@ -1,7 +1,7 @@
 ---
 Title: Index of latera.wiki
 created: 2022-05-04 13:01
-updated: 2022-05-07 13:39
+updated: 2022-05-07 14:21
 ---
    
 ## What's this then?   
@@ -48,4 +48,9 @@ Important shit! Basically the exact same as [what i want my children to know](./
 Not a blog, not a wiki. But it's a blog...   
 It's chronologically sorted small heapings of words.   
    
-- [bliki](./bliki.md)
+- [bliki](./bliki.md)   
+   
+## Log   
+Summaries of my months. What I wrote, what I discovered etcetera.   
+   
+- [log-2022-03](./log-2022-03.md)
