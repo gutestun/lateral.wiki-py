@@ -1,7 +1,7 @@
 ---
-created: 2021-06-21
+created: 2021-06-21 02:00
 title: Strong Opinions Weakly Held
-updated: 2022-05-05 22:44
+updated: 2022-05-07 14:32
 ---
    
 # Strong Opinions Weakly Held   
@@ -72,6 +72,7 @@ More Than Human After All: [consciousness is not computational in nature](/not_c
 ---   
 **Outside Our Selves: Cosmology**   
 It's Not Made For Us; We Are Made Within It: [I dont buy the fine-tuning hypothesis](./I%20dont%20buy%20the%20fine-tuning%20hypothesis.md)   
+It's made for us; we are within it: [t.If We Are in a Simulation It Is Not Running on a Computer](/not_created.md)   
    
 ### Strong Opinions about Inconsequentialities   
 You Have Scrolled This Far, You Know This by Now: [The best digital garden retains a sense of wilderness](./The%20best%20digital%20garden%20retains%20a%20sense%20of%20wilderness.md)   
