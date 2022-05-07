@@ -1,7 +1,7 @@
 ---
 Title: Index of latera.wiki
 created: 2022-05-04 13:01
-updated: 2022-05-06 08:19
+updated: 2022-05-07 13:39
 ---
    
 ## What's this then?   
@@ -42,4 +42,10 @@ Important shit! Basically the exact same as [what i want my children to know](./
 - [Industrial literacy](./Industrial%20literacy.md)   
 - [how to spot misinformation online](./how%20to%20spot%20misinformation%20online.md)   
 - [50 Ideas That Changed My Life](./50%20Ideas%20That%20Changed%20My%20Life.md)   
-- [Information Hazards](./Information%20Hazards.md)
+- [Information Hazards](./Information%20Hazards.md)   
+   
+## Bliki   
+Not a blog, not a wiki. But it's a blog...   
+It's chronologically sorted small heapings of words.   
+   
+- [bliki](./bliki.md)

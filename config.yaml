@@ -5,7 +5,7 @@ obsidian_folder_path_str: '/Users/ben/Resilio Sync/_txt/www'
 # The note that will be used as the index.html 
 # should be in obsidian_folder_path_str
 # Use full path or relative path, but don't use ~/
-obsidian_entrypoint_path_str: '/Users/ben/Resilio Sync/_txt/www/_moc.www-index-v2.md'
+obsidian_entrypoint_path_str: '/Users/ben/Resilio Sync/_txt/www/index.md'
 
 html_output_folder_path_str: '/Users/ben/Github/lateral.wiki-py/html/www'
 md_folder_path_str: '/Users/ben/Github/lateral.wiki-py/md/www'
