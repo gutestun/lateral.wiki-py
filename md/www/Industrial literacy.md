@@ -1,5 +1,8 @@
 ---
-{}
+tags:
+- society
+title: Industrial Literacy
+type: reference
 ---
    
 # Industrial literacy   
